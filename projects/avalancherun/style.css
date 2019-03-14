@@ -1,0 +1,55 @@
+html {
+    background: url("./img/background.png") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family: Arial;
+    /*font-size: larger;*/
+}
+
+a{
+    color: #4391c5;
+}
+
+a:visited{
+    color: #4391c5;
+}
+
+a:active
+{
+    color: #4391c5;
+}
+
+#store-links{
+    margin-bottom: 20px;
+}
+
+#store-links img{
+    margin-top: 20px;
+    height: 100px;
+    margin-right: 20px;
+}
+
+#footer{
+    background-color: rgba(239,241,255,0.74);
+    padding: 5px 10px;
+    border-radius: 10px;
+    float: left;
+    min-width: 100px;
+}
+
+
+#logo{
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 30%;
+    min-width: 200px;
+}
+
+#content{
+    position: fixed;
+    bottom: 0;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
