@@ -1,11 +1,17 @@
-html {
-    background: url("./img/background.png") no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background-image: url("./img/background.png");
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /*-webkit-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*-o-background-size: cover;*/
     font-family: Arial;
     /*font-size: larger;*/
+    background-attachment:fixed;
 }
 
 a{
@@ -28,7 +34,7 @@ a:active
 #store-links img{
     margin-top: 20px;
     height: 100px;
-    margin-right: 20px;
+    /*margin-right: 20px;*/
 }
 
 #footer{
@@ -51,5 +57,6 @@ a:active
     position: fixed;
     bottom: 0;
     margin-left: 20px;
+    margin-right: 20px;
     margin-bottom: 20px;
 }
