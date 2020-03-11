@@ -1,0 +1,62 @@
+body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    background-image: url("./img/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    /*-webkit-background-size: cover;*/
+    /*-moz-background-size: cover;*/
+    /*-o-background-size: cover;*/
+    font-family: Arial;
+    font-size: larger;
+    background-attachment:fixed;
+}
+
+a{
+    color: #b11f1f;
+}
+
+a:visited{
+    color: #b11f1f;
+}
+
+a:active
+{
+    color: #b11f1f;
+}
+
+#store-links{
+    margin-bottom: 20px;
+}
+
+#store-links img{
+    margin-top: 20px;
+    height: 100px;
+    /*margin-right: 20px;*/
+}
+
+#footer{
+    background-color: rgba(239,241,255,0.74);
+    padding: 5px 10px;
+    border-radius: 10px;
+    float: left;
+    min-width: 100px;
+}
+
+
+#logo{
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 40%;
+    min-width: 200px;
+}
+
+#content{
+    position: fixed;
+    bottom: 0;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
