@@ -50,7 +50,7 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  You can also drop me a line <a href="t.me/datagreed">on telegram</a> – I check it often
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
@@ -58,8 +58,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: datagreed  # your blog must have a name for it to show up in the nav bar
+blog_description: programming, gamedev and ux notes
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -67,23 +67,23 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: datagreed # put your disqus shortname #TODO: get an actual disqus account
 
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
 
 collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /news/:path/
+#  news:
+#    defaults:
+#      layout: post
+#    output: true
+#    permalink: /news/:path/
   projects:
     output: true
     permalink: /projects/:path/
 
-news_limit: 5
+#news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
