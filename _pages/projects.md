@@ -2,9 +2,11 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: My projects and projects I participated in.
 nav: true
 ---
+
+# todo: add sections like Apps & Services, Games, Tools, miscellaneous
 
 <div class="projects grid">
 
