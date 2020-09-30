@@ -1,0 +1,65 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    Image here?
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-description">{{ page.description }}</p>
+  </header>
+
+  <article>
+
+    <style>
+    .full-width {
+      width: 100vw;
+      position: relative;
+      left: 50%;
+      right: 50%;
+      margin-left: -50vw;
+      margin-right: -50vw;
+    }</style>
+
+    {% comment %} https://stackoverflow.com/questions/8206869/iterate-over-hashes-in-liquid-templates {% endcomment %}
+    <div class="border-bottom full-width mt-5"></div>
+    <div class="container pt-3 pb-3">
+      <div class="row">
+        {% if page.project_type %}
+        <div class="col pl-0">
+          <div class="text-muted text-uppercase text-nowrap"><small><small>project type</small></small></div>
+          <div><small class="font-weight-light">{{ page.project_type }}</small></div>
+        </div>
+        {% endif %}
+        {% if page.platforms %}
+        <div class="col pl-0">
+          <div class="text-muted text-uppercase text-nowrap"><small><small>platforms</small></small></div>
+          {% for platform in page.platforms %}
+            <div><small class="font-weight-light"><a href="{{platform.url}}" target="_blank">{{platform.name}}</a></small></div>
+          {% endfor %}
+        </div>
+        {% endif %}
+        {% if page.my_role %}
+        <div class="col pl-0">
+          <div class="text-muted text-uppercase text-nowrap"><small><small>my role</small></small></div>
+          {% for role in page.my_role %}
+            <div><small class="font-weight-light">{{role}}</small></div>
+          {% endfor %}
+        </div>
+        {% endif %}
+        {% if page.dates %}
+          <div class="col pl-0">
+            <div class="text-muted text-uppercase text-nowrap"><small><small>time period</small></small></div>
+            <div><small class="font-weight-light">{{page.dates}}</small></div>
+          </div>
+        {% endif %}
+
+
+      </div>
+    </div>
+    <div class="border-top full-width mb-5"></div>
+
+    {{ content }}
+  </article>
+
+</div>

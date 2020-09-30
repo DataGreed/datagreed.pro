@@ -1,47 +1,22 @@
 ---
-layout: page
+layout: project
 title: Listenable
 description: Bite-sized audio courses created by renowned experts
 img: /assets/img/projects/listenable/cover.png
 importance: 1
+featured: true
+project_type: Educational Service
+my_role: 
+    - CTO
+    - cofounder
+    - software engineer
+dates: Dec. 2019 – Present
+platforms: 
+    - name: iOS
+      url: https://apps.apple.com/us/app/listenable-learn-via-audio/id1492810539
+    - name: Web
+      url: https://listenable.io
 ---
-
-<style>.full-width {
-         width: 100vw;
-         position: relative;
-         left: 50%;
-         right: 50%;
-         margin-left: -50vw;
-         margin-right: -50vw;
-       }</style>
-
-<div class="border-bottom full-width mt-5"></div>
-<div class="container pt-3 pb-3">
-  <div class="row">
-    <div class="col pl-0">
-      <div class="text-muted text-uppercase text-nowrap"><small><small>project type</small></small></div>
-      <div><small class="font-weight-light">Educational Service</small></div>
-    </div>
-    <div class="col pl-0">
-      <div class="text-muted text-uppercase text-nowrap"><small><small>platforms</small></small></div>
-      <div><small class="font-weight-light"><a href="https://apps.apple.com/us/app/listenable-learn-via-audio/id1492810539" target="_blank">iOS</a></small></div>
-      <div><small class="font-weight-light"><a href="https://listenable.io" target="_blank">Web</a></small></div>
-    </div>
-    <div class="col pl-0">
-      <div class="text-muted text-uppercase text-nowrap"><small><small>my role</small></small></div>
-      <div><small class="font-weight-light">CTO</small></div>
-      <div><small class="font-weight-light">cofounder</small></div>      
-      <div><small class="font-weight-light">software engineer</small></div>
-    </div>
-    <div class="col pl-0">
-      <div class="text-muted text-uppercase text-nowrap"><small><small>time period</small></small></div>
-      <div><small class="font-weight-light">Dec. 2019 – Present</small></div>
-    </div>    
-
-    
-  </div>
-</div>
-<div class="border-top full-width mb-5"></div>
 
 Listenable is an audio-based learning platform that helps you learn new things while doing something else.
 
@@ -65,10 +40,10 @@ todo: would be great to add a distill-like header with platform with links, type
     </div> 
     <div class="col-sm mt-3 mt-md-0">
             <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/listenable/ios3.png' | relative_url }}" alt=""/>
-        </div>
-        <div class="col-sm mt-3 mt-md-0">
-            <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/listenable/ios4.png' | relative_url }}" alt=""/>
-        </div>   
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/listenable/ios4.png' | relative_url }}" alt=""/>
+    </div>   
 </div>
 <div class="caption">
     Screenshots for iOS version of the Listenable App.
