@@ -8,8 +8,29 @@ nav: true
 
  {% comment %} #TODO: make jump-to fixed somewhere and always visible?{% endcomment %}
  
- <strong>Jump to:</strong> [games](#games), [tools](#tools), [misc](#misc)
+ {% comment %}
+<style>
+.project-filter {
+  position: fixed;
+  top: 57px;
+  margin-left: auto;
+  z-index: 1020;
+  background-color: white;
+  padding-top: 10px;
+  margin-left: -20px;
+  padding-left: 20px;
+  margin-right: -20px;
+  padding-right: 20px;
+}
+</style>
+
+<div class="project-filter">sections: <a href="#services">apps & services</a>, <a href="#games">games</a>, <a href="#tools">tools</a>, <a href="#misc">misc</a></div> 
  
+ {% endcomment %}
+ 
+Jump to: <a href="#services">apps & services</a>, <a href="#games">games</a>, <a href="#tools">tools</a>, <a href="#misc">misc</a> 
+ 
+{% comment %} https://stackoverflow.com/questions/10732690/offsetting-an-html-anchor-to-adjust-for-fixed-header {% endcomment %} 
 <h2 class="mt-4" id="services">apps & services</h2>
 ***
 {% assign sorted_projects = site.projects | sort: "importance" | where:"section","services"%}
