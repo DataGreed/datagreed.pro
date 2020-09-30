@@ -24,11 +24,7 @@ Listenable is an audio-based learning platform that helps you learn new things w
 
 todo: put the container above in yaml and render it automatically
 
-todo: add platforms with links to corresponding pages
-
 todo: as a part of a company Highbrow, inc
-
-todo: would be great to add a distill-like header with platform with links, type (education service), time period, my role, platforms, etc.
 
 
 ## iOS App
@@ -56,8 +52,16 @@ todo: would be great to add a distill-like header with platform with links, type
 todo: add screenshots 
 
 ## My Role
+***
 
 todo: analytics (inlcuding minutes), affiliate, etc, etc. programming, operations, monitoring etc, loadtesting api design when bootstrapping without any funding.
+
+
+## Links
+***
+
+1. [Listenable App Store Page](https://apps.apple.com/us/app/listenable-learn-via-audio/id1492810539)
+2. [Listenable Website](https://listenable.io)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
