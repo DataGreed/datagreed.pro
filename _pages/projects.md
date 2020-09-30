@@ -6,7 +6,7 @@ description: My projects and projects I participated in.
 nav: true
 ---
 
-# todo: add sections like Apps & Services, Games, Tools, miscellaneous
+ <strong>!!TODO:</strong> add sections like Apps & Services, Games, Tools, miscellaneous
 
 <div class="projects grid">
 
