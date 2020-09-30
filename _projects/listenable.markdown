@@ -52,7 +52,6 @@ todo: add platforms with links to corresponding pages
 todo: as a part of a company Highbrow, inc
 
 todo: would be great to add a distill-like header with platform with links, type (education service), time period, my role, platforms, etc.
-todo: analytics (inlcuding minutes), affiliate, etc, etc. programming, operations, monitoring etc, loadtesting when bootstrapping without any funding.
 
 
 ## iOS App
@@ -80,6 +79,8 @@ todo: analytics (inlcuding minutes), affiliate, etc, etc. programming, operation
 todo: add screenshots 
 
 ## My Role
+
+todo: analytics (inlcuding minutes), affiliate, etc, etc. programming, operations, monitoring etc, loadtesting api design when bootstrapping without any funding.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
