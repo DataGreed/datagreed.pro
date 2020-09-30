@@ -4,7 +4,9 @@ layout: default
 <div class="post">
 
   <header class="post-header">
-    Image here?
+    {% if page.show_header_logo %}
+    <div class="float-left mr-3"><img src="{{page.img}}" class="rounded mb-3 d-none d-md-block" style="max-height: 80px;" alt="{{page.title}} logo"/></div>
+    {% endif %}
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-description">{{ page.description }}</p>
   </header>

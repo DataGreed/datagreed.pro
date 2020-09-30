@@ -5,6 +5,7 @@ description: Bite-sized audio courses created by renowned experts
 img: /assets/img/projects/listenable/cover.png
 importance: 1
 featured: true
+show_header_logo: true
 project_type: Educational Service
 my_role: 
     - CTO
