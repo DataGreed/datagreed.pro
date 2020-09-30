@@ -6,6 +6,7 @@ img: /assets/img/projects/listenable/cover.png
 importance: 1
 featured: true
 show_header_logo: true
+section: services   # for project list page
 project_type: Educational Service
 my_role: 
     - CTO
