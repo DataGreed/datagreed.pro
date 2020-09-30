@@ -38,11 +38,14 @@ layout: default
 
     <div class="publications">
       <h2>Recent Projects</h2>
-      TODO: automate featured projects same way as news and selected papers are
+      <hr>
+
+      {% assign sorted_projects = site.projects | sort: "importance" | where:"featured",true%}
+      {% include project_grid.html %}
     </div>
 
     {% if page.social %}
-    <div class="social">
+    <div class="social mt-4">
       {% include social.html %}
       <div class="contact-note">{{ site.contact_note }}</div>
     </div>
