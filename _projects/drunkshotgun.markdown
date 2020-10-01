@@ -34,6 +34,8 @@ his trusty shotgun that he can use to defend himself and move around the arena u
 The goal is simple: defeat 99 goblins and face the boss, the Legendary Blue Goblin to unlock an ancient weapon
 that provides you with an ultimate challenge of your skills.
 
+Tap the screen once to shoot. Hold the screen to engage bullet-time and release the screen to shoot while in it.
+
 todo: add some promo-art here or some screenshots to break the page up or 
 todo: add some gameplay videos with both weapons. Crossbow is badically the ultimate difficulty
 
