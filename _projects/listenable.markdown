@@ -59,7 +59,7 @@ lessons anytime, anywhere.
 ## Web App
 ***
 <div class="text-center">
-<iframe width="700" height="434" src="https://www.youtube.com/embed/_4KYG5FpRCo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="480px" src="https://www.youtube.com/embed/_4KYG5FpRCo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <div class="caption">
     Video preview for Web version of the Listenable App 
