@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Drunk Shotgun
-description: A game where you're so drunk you can't stop spinning
+description: A shooter game where you're so drunk you can't stop spinning
 img: /assets/img/projects/drunkshotgun/cover.png
 importance: 2
 featured: true
