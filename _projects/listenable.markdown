@@ -20,11 +20,10 @@ platforms:
       url: https://listenable.io
 ---
 
-Listenable is an audio-based learning platform that helps you learn new things while doing something else.
+Listenable is an audio-based learning platform that helps you learn new things while doing something else — commuting, 
+running, doing housework, etc. With Listenable, you can build your learning playlist and listen to 5-minute audio 
+lessons anytime, anywhere.
 
-todo: put the container above in yaml and render it automatically
-
-todo: as a part of a company Highbrow, inc
 
 
 ## iOS App
@@ -59,7 +58,25 @@ todo: as a part of a company Highbrow, inc
 
 ## Web App
 ***
-todo: add screenshots 
+<div class="text-center">
+<iframe width="700" height="434" src="https://www.youtube.com/embed/_4KYG5FpRCo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="caption">
+    Video preview for Web version of the Listenable App 
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <img class="img-fluid rounded z-depth-1 wh600" src="{{ '/assets/img/projects/listenable/web1.png' | relative_url }}" alt=""/>
+    </div>       
+</div>
+<div class="caption"></div>
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center">      
+        <img class="img-fluid rounded z-depth-1 wh600" src="{{ '/assets/img/projects/listenable/web3.png' | relative_url }}" alt=""/>
+    </div>       
+</div>
+<div class="caption">Screenshot of a single course page</div>
 
 ## My Role
 ***
@@ -73,45 +90,3 @@ todo: analytics (inlcuding minutes), affiliate, etc, etc. programming, operation
 1. [Listenable App Store Page](https://apps.apple.com/us/app/listenable-learn-via-audio/id1492810539)
 2. [Listenable Website](https://listenable.io)
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/5.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal it's glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/" target="_blank">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/6.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/11.jpg' | relative_url }}" alt="" title="example image"/>
-    </div>
-</div>
-```
