@@ -23,7 +23,7 @@ platforms:
 ---
 
 Drunk Shotgun is my love letter to hardcore old-school games. 
-The perspective and art style are resembling Crimsonland and other top-down shooters of that era, and the simple 
+The perspective and art style are a homage to Crimsonland and other top-down shooters of that era, and the simple 
 control scheme that lets you play with only one finger is a nod to Canabalt and Leap Day.
 
 Jack, the game's protagonist leaves the bar at night and tries to go home, but quickly realises that he's
