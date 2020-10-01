@@ -30,21 +30,31 @@ todo: as a part of a company Highbrow, inc
 ## iOS App
 ***
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/listenable/ios1.png' | relative_url }}" alt=""/>
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <img class="img-fluid rounded z-depth-1 mh600" src="{{ '/assets/img/projects/listenable/ios1.png' | relative_url }}" alt=""/>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/listenable/ios2.png' | relative_url }}" alt=""/>
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <img class="img-fluid rounded z-depth-1 mh600" src="{{ '/assets/img/projects/listenable/ios2.png' | relative_url }}" alt=""/>
     </div> 
-    <div class="col-sm mt-3 mt-md-0">
-            <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/listenable/ios3.png' | relative_url }}" alt=""/>
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <img class="img-fluid rounded z-depth-1 mh600" src="{{ '/assets/img/projects/listenable/ios3.png' | relative_url }}" alt=""/>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <img class="img-fluid rounded z-depth-1" src="{{ '/assets/img/projects/listenable/ios4.png' | relative_url }}" alt=""/>
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <img class="img-fluid rounded z-depth-1 mh600" src="{{ '/assets/img/projects/listenable/ios4.png' | relative_url }}" alt=""/>
     </div>   
 </div>
 <div class="caption">
     Screenshots for iOS version of the Listenable App.
+</div>
+
+<div class="text-center">
+    <iframe width="300" height="600" src="https://www.youtube.com/embed/HhYukZ5lg38" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+    </iframe>
+</div>
+<div class="caption">
+    Video preview for iOS version of the Listenable App 
 </div>
 
 ## Web App
