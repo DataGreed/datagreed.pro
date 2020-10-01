@@ -24,7 +24,17 @@ Listenable is an audio-based learning platform that helps you learn new things w
 running, doing housework, etc. With Listenable, you can build your learning playlist and listen to 5-minute audio 
 lessons anytime, anywhere.
 
+## My Role
+***
 
+I've joined Listenable as a Chief Technical Officer right after the initial design mockups were completed.
+
+I was responsible for everything related to the technical side of the startup: gathering business requirements, 
+leading the development team, designing project architecture, devops, etc.
+
+Since we were bootstrapping without any outside funding, I did a lot of the stuff with my own hands including backend 
+development, API design, Web App development, subscription and usage analytics, monitoring, deployment, load-testing, 
+etc. (basically everything development-related except the development of the iOS App).
 
 ## iOS App
 ***
@@ -78,10 +88,7 @@ lessons anytime, anywhere.
 </div>
 <div class="caption">Screenshot of a single course page</div>
 
-## My Role
-***
 
-todo: analytics (inlcuding minutes), affiliate, etc, etc. programming, operations, monitoring etc, loadtesting api design when bootstrapping without any funding.
 
 
 ## Links
