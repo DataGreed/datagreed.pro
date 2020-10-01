@@ -29,6 +29,13 @@ layout: default
     h2{
       padding-top: 30px;
     }
+    h3{
+      padding-top: 30px;
+    }
+    h4{
+      padding-top: 20px;
+      padding-bottom: 10px;
+    }
     </style>
 
     {% comment %} https://stackoverflow.com/questions/8206869/iterate-over-hashes-in-liquid-templates {% endcomment %}
@@ -38,14 +45,14 @@ layout: default
         {% if page.project_type %}
         <div class="col pl-0">
           <div class="text-muted text-uppercase text-nowrap"><small><small>project type</small></small></div>
-          <div><small class="font-weight-light">{{ page.project_type }}</small></div>
+          <div><small class="font-weight-light text-nowrap">{{ page.project_type }}</small></div>
         </div>
         {% endif %}
         {% if page.platforms %}
         <div class="col pl-0">
           <div class="text-muted text-uppercase text-nowrap"><small><small>platforms</small></small></div>
           {% for platform in page.platforms %}
-            <div><small class="font-weight-light"><a href="{{platform.url}}" target="_blank">{{platform.name}}</a></small></div>
+            <div><small class="font-weight-light text-nowrap"><a href="{{platform.url}}" target="_blank">{{platform.name}}</a></small></div>
           {% endfor %}
         </div>
         {% endif %}
@@ -53,14 +60,14 @@ layout: default
         <div class="col pl-0">
           <div class="text-muted text-uppercase text-nowrap"><small><small>my role</small></small></div>
           {% for role in page.my_role %}
-            <div><small class="font-weight-light">{{role}}</small></div>
+            <div><small class="font-weight-light text-nowrap">{{role}}</small></div>
           {% endfor %}
         </div>
         {% endif %}
         {% if page.dates %}
           <div class="col pl-0">
             <div class="text-muted text-uppercase text-nowrap"><small><small>time period</small></small></div>
-            <div><small class="font-weight-light">{{page.dates}}</small></div>
+            <div><small class="font-weight-light text-nowrap">{{page.dates}}</small></div>
           </div>
         {% endif %}
 
