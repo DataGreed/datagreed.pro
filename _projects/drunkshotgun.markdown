@@ -46,7 +46,7 @@ todo: add some gameplay videos with both weapons. Crossbow is badically the ulti
 todo: art-direction, ui design, etc. Only outsourced things - art
 
 
-
+{% comment %}
 ## Drunk Shotgun Postmortem
 
 todo how long development took
@@ -125,10 +125,11 @@ still not break even
 </div>
 
 
-
+{% endcomment %}
 
 # TODOS
 
+- screenshots and video
 - postmortem - what went right, what went wrong
 - fun fact - blood color and rating (could go in postmortem - basically "lessons learned") - and I was worried about shotgun
 - fun fact - banned in facebook (could go in postmortem)
