@@ -42,9 +42,96 @@ todo: add some gameplay videos with both weapons. Crossbow is badically the ulti
 ## My Role
 ***
 
+I had an idea for this game in October, 2019 after I discovered Archero. I really liked the simplistic control scheme,
+but didn't like the fact that you only had control over the movements of the character, leaving aiming out of question,
+so I thought of the ways to let player both shoot/aim and move with just one hand. 
 
-todo: art-direction, ui design, etc. Only outsourced things - art
+The idea of a drunk guy emerged quite quickly and I created a prototype in three days in Unity using free assets.
 
+Several days later I created an art specification and started looking for an artist.
+
+Art was the only thing that I outsourced for this game, the sounds and music were licensed (some of the sounds I 
+recorded myself). 
+
+The game design, art direction, UI design, programming, animations and publishing were all done by me. 
+
+## Media
+***
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <img class="img-fluid rounded z-depth-1 mh600" src="{{ '/assets/img/projects/drunkshotgun/boxart.png' | relative_url }}" alt=""/>
+    </div>    
+      
+</div>
+<div class="caption">
+    Drunk Shotgun title art 
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <img class="img-fluid rounded z-depth-1 mh600" src="{{ '/assets/img/projects/drunkshotgun/ios4.png' | relative_url }}" alt=""/>
+    </div>
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <img class="img-fluid rounded z-depth-1 mh600" src="{{ '/assets/img/projects/drunkshotgun/ios5.png' | relative_url }}" alt=""/>
+    </div>
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <img class="img-fluid rounded z-depth-1 mh600" src="{{ '/assets/img/projects/drunkshotgun/ios6.png' | relative_url }}" alt=""/>
+    </div>
+      
+</div>
+<div class="caption">
+    Gameplay Screenshots
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <iframe width="300" height="600" src="https://www.youtube.com/embed/gIGUyF0C3-o" frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+            </iframe>
+    </div>
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <iframe width="300" height="600" src="https://www.youtube.com/embed/iG45kI6CJkY" frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+            </iframe>
+    </div>
+    
+      
+</div>
+<div class="caption">
+    Gameplay Footage with Shotgun and Crossbow
+</div>
+
+
+
+## Bonus: prototype
+***
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <img class="img-fluid rounded z-depth-1 mh600" src="{{ '/assets/img/projects/drunkshotgun/proto2.png' | relative_url }}" alt=""/>
+    </div>
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <img class="img-fluid rounded z-depth-1 mh600" src="{{ '/assets/img/projects/drunkshotgun/proto1.png' | relative_url }}" alt=""/>
+    </div>
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <img class="img-fluid rounded z-depth-1 mh600" src="{{ '/assets/img/projects/drunkshotgun/proto3.png' | relative_url }}" alt=""/>
+    </div>
+      
+</div>
+<div class="caption">
+    Screenshots from the first game prototype utilizing free graphic assets
+</div>
+
+<div class="text-center">
+    <iframe width="300" height="600" src="https://www.youtube.com/embed/JlwN9_JqbRI" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+    </iframe>
+</div>
+<div class="caption">
+    Gameplay footage of an early prototype 
+</div>
 
 {% comment %}
 ## Drunk Shotgun Postmortem
@@ -127,13 +214,14 @@ still not break even
 
 {% endcomment %}
 
+{% comment %}
 # TODOS
 
 - screenshots and video
 - postmortem - what went right, what went wrong
 - fun fact - blood color and rating (could go in postmortem - basically "lessons learned") - and I was worried about shotgun
 - fun fact - banned in facebook (could go in postmortem)
-
+{% endcomment %}
 
 ## Links
 ***
