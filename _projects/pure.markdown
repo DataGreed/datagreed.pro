@@ -26,11 +26,20 @@ to instantly and anonymously find casual sex partners.
 
 It’s crafted for individuals to find and experience 
 instant sexy adventures and has one simple premise: provide “Dates On-Demand”.
-
+{%comment%}
 ## My Role
 ***
 
 todo
+
+knowledge base, architecture, secure chats with  end-to-end encryption, load tests, optimization, early.
+processes between teams, stakeholders, etc. programmed when bootstrapping, hiring tech team. Scaling team and adapting to
+scaling user base.
+
+side-projects like yep (make dedicated project page, hole, etc. Soft stealth launch (meet),   
+
+todo: links to magazines about this project
+{%endcomment %}
 
 ## iOS App
 ***
