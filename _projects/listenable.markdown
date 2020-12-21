@@ -27,7 +27,7 @@ lessons anytime, anywhere.
 ## My Role
 ***
 
-I've joined Listenable as a Chief Technical Officer right after the initial design mockups were completed.
+I've joined Listenable as a Chief Technical Officer right after the initial UI design mockups were completed.
 
 I was responsible for everything related to the technical side of the startup: gathering business requirements, 
 leading the development team, designing project architecture, devops, etc.
