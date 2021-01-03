@@ -24,11 +24,11 @@ nav: true
 }
 </style>
 
-<div class="project-filter">sections: <a href="#services">apps & services</a>, <a href="#games">games</a>, <a href="#tools">tools</a>, <a href="#misc">misc</a></div> 
+<div class="project-filter">sections: <a href="#services">apps & services</a>, <a href="#games">games</a>, <a href="#tools">tools</a> {% comment %}, <a href="#misc">misc</a></div> {% endcomment %} 
  
  {% endcomment %}
  
-Jump to: <a href="#services">apps & services</a>, <a href="#games">games</a>, <a href="#tools">tools</a>, <a href="#misc">misc</a> 
+Jump to: <a href="#services">apps & services</a>, <a href="#games">games</a>, <a href="#tools">tools</a>{% comment %}, <a href="#misc">misc</a>{% endcomment %} 
  
 {% comment %} https://stackoverflow.com/questions/10732690/offsetting-an-html-anchor-to-adjust-for-fixed-header {% endcomment %} 
 <h2 class="mt-4" id="services">apps & services</h2>
@@ -46,9 +46,11 @@ Jump to: <a href="#services">apps & services</a>, <a href="#games">games</a>, <a
 {% assign sorted_projects = site.projects | sort: "importance" | where:"section","tools"%}
 {% include project_grid.html %}
 
+{% comment %}
 <h2 class="mt-4" id="misc">misc</h2>
 ***
 {% assign sorted_projects = site.projects | sort: "importance" | where:"section","misc"%}
 {% include project_grid.html %}
 
-
+todo: uncomment when misc projects will be added (like music albums?)
+{% endcomment %}
