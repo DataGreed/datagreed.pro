@@ -1,7 +1,7 @@
 ---
 layout: page
 title: projects
-permalink: /projects/
+permalink: /jects/
 description: My projects and projects I participated in.
 nav: true
 ---
