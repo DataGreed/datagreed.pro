@@ -3,7 +3,7 @@ layout: project
 title: Till Breath Do Us Part
 description: Short Top-Down Shooter Game
 img: /assets/img/projects/breathapart/cover.png
-importance: 4
+importance: 11
 featured: false
 show_header_logo: false
 section: games   # for project list page
