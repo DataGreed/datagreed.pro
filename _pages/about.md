@@ -29,7 +29,7 @@ Technology-wise, I mostly work with Python and C#. I do all my work on macs, not
 aesthetically pleasing, but because they feature the most stable and user-friendly version of BSD (also they are shiny and nice 
 to look at). 
 
-My hobbies include music production and motorcycling.
+My hobbies include [music production](https://soundcloud.com/datagreed/tracks) and motorcycling.
 
 If you would like to hire me / make me an offer I would not be able to refuse / talk to me for whatever reason – 
 drop me a line. My contact info is at the bottom of the page.

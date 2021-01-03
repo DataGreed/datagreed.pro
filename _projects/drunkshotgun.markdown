@@ -56,6 +56,10 @@ recorded myself).
 
 The game design, art direction, UI design, programming, animations and publishing were all done by me. 
 
+## Project Post-Mortem
+***
+The detailed post-mortem analysis of the project [can be found here](https://datagreed.medium.com/how-i-wasted-4k-and-half-a-year-of-my-life-to-develop-a-game-that-earned-only-30-a94e0d59e554).
+
 ## Media
 ***
 <div class="row">
@@ -134,86 +138,7 @@ The game design, art direction, UI design, programming, animations and publishin
     Gameplay footage of an early prototype 
 </div>
 
-{% comment %}
-## Drunk Shotgun Postmortem
 
-todo how long development took
-
-### What went right
-***
-
-#### 1. 2D Lighting
-
-todo Not going with it, using just alphas, huge 
-
-#### 2. Art Style
-todo - screenshots of design doc?
-todo hard to find though, art station and such
-
-#### 3. Look and Feel
-
-todo Not going with it, using just alphas, huge; music, sound design (friend screenshot with shotgun sound in chat),
-  
-#### 4. Animating
-
-todo: again. actually quite nice system for it in unity
-
-#### 5. Code reuse
-todo: screenshot from farm defence for fun
-todo: from farm defense prototype
-todo: first prototype was ready with my reused code some free assets in like three days or something
- 
-
-### What went wrong
-***
-#### 1. Animating
-todo: some photos while animating 
-lalal
-
-#### 2. Playtesting
-
-very limited to FFF
-probably way to hard for some players
-
-#### 3. Google Play Release
-
-todo: rejected due to blood, fun fact on how it was accepted; screenshot of rejection?
-
-#### 4. User acquisition
-advertisment
-targeting was awesome (doom) but ban
-
-aso - did not find anything, no niche
-
-#### 5. Monetization
-very bad funnel and ad revenue; 
-still not break even
-
-
-## Screenshots
-***
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0 text-center">
-        <img class="img-fluid rounded z-depth-1 mh600" src="{{ '/assets/img/projects/listenable/ios1.png' | relative_url }}" alt=""/>
-    </div>
-      
-</div>
-<div class="caption">
-    caption
-</div>
-
-<div class="text-center">
-    <iframe width="300" height="600" src="https://www.youtube.com/embed/HhYukZ5lg38" frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-    </iframe>
-</div>
-<div class="caption">
-    caption
-</div>
-
-
-{% endcomment %}
 
 {% comment %}
 # TODOS
@@ -229,5 +154,6 @@ still not break even
 
 1. [Drunk Shotgun App Store Page](https://apps.apple.com/us/app/drunk-shotgun/id1482872349)
 2. [Drunk Shotgun Google Play Page](https://play.google.com/store/apps/details?id=pro.datagreed.DrunkShotgun)
-3. [Promo Page](http://datagreed.pro/projects/drunkshotgun/)
+3. [Promo Page](http://datagreed.pro/projects/drunkshotgun/)    {% comment %}Check that this will still work!!! {% endcomment %}
+3. [Project Post-Mortem Analysis](https://datagreed.medium.com/how-i-wasted-4k-and-half-a-year-of-my-life-to-develop-a-game-that-earned-only-30-a94e0d59e554)
 
