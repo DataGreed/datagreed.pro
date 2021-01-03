@@ -18,8 +18,18 @@ social: true  # includes social icons at the bottom of the page
 # TODO: make selected_projects the same way news and selected papers are implemented
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+As you've proably already have guessed, my name is Alexey and my nickname, DataGreed, is quite a bad pun.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Over a decade I've spent a lot of time designing, developing and managing 
+the development of mobile and web apps, APIs and other services.   
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I've also designed and developed several games. 
+
+Technology-wise, I mostly work with Python and C#. I do all my work on macs, not because they are shiny and 
+aesthetically pleasing, but because they feature the most stable and user-friendly version of BSD (also they are shiny and nice 
+to look at). 
+
+My hobbies include music production and motorcycling.
+
+If you would like to hire me / make me an offer I would not be able to refuse / talk to me for whatever reason – 
+drop me a line. My contact info is at the bottom of the page.
