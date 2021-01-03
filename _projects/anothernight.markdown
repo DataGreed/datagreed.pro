@@ -22,16 +22,16 @@ platforms:
       url: https://datagreed.itch.io/another-night 
 ---
 
-Another Night is a very short survival game. Help your friends and family survive the night in the desert. 
-Find wood, feed the bonfire, fight mummies or 
-try to sneak past them and don’t get lost. Keep your party alive. Keep the fire alive. Till sunrise.
+Another Night is a very short survival game where you have to help your friends and family 
+survive the night in the desert. Find wood, feed the bonfire, fight mummies or 
+try to sneak past them and don’t get lost (tip: use your footprints to keep track of where you're going).
 
 This game is a [Ludum Dare Game Jam #46 Entry](https://ldjam.com/events/ludum-dare/46/another-night). 
 The theme for the game jam was "Keep it alive".
 
 We made this project over a weekend with my friend [Alexey Panov](https://ldjam.com/users/schizoinside). 
 
-Alexey did all art and animation and I was responsible for programming, sound design, music and putting 
+Alexey did all game art and animation and I was responsible for programming, sound design, music and putting 
 it all together.
  
 Note that Another Night is [open source](https://github.com/DataGreed/LD46) and licensed under MIT, so you can freely 
