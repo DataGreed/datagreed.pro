@@ -44,7 +44,12 @@ layout: default
       {% include project_grid.html %}
     </div>
 
-    <div class="text-center mt-3 mb-5"><a href="/projects/">See more projects</a></div>
+    {% for pp in site.pages %}
+      {% if pp.title =="projects"%}
+        {% comment %} seems like an easiest way to get projects url without hardcoding {% endcomment %}
+        <div class="text-center mt-3 mb-5"><a href="{{pp.url}}">See more projects</a></div>
+      {%endif%}
+    {% endfor %}
 
     {% if page.social %}
     <div class="social mt-4">
