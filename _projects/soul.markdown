@@ -4,7 +4,7 @@ title: Soul
 description: mBaaS for the Dating Apps
 img: /assets/img/projects/soul/cover.png
 importance: 1
-featured: true
+featured: false
 show_header_logo: true
 section: services   # for project list page
 project_type: SaaS
