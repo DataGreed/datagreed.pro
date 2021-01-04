@@ -18,18 +18,19 @@ social: true  # includes social icons at the bottom of the page
 # TODO: make selected_projects the same way news and selected papers are implemented
 ---
 
-As you've proably already have guessed, my name is Alexey and my nickname, DataGreed, is quite a bad pun.
+Yes, that's my name. You can also know me as DataGreed. This nickname seems to be odd in the age of
+megacorporatins trying to collect your data, but it's actually just a bad programming pun.
 
-Over a decade I've spent a lot of time designing, developing and managing 
-the development of mobile and web apps, APIs and other services.   
+Over a decade I've spent a lot of time designing, developing mobile and web apps, APIs and other services, managing 
+development teams and consulting startups.   
 
 I've also designed and developed several games. 
 
-Technology-wise, I mostly work with Python and C#. I do all my work on macs, not because they are shiny and 
-aesthetically pleasing, but because they feature the most stable and user-friendly version of BSD (also they are shiny and nice 
-to look at). 
+Technology-wise, I prefer to work with Python and C#. I mostly work on macs – not because they are shiny and 
+aesthetically pleasing – but because they feature the most stable and user-friendly version of BSD (also they are shiny 
+and nice to look at). 
 
 My hobbies include [music production](https://soundcloud.com/datagreed/tracks) and motorcycling.
 
-If you would like to hire me / make me an offer I would not be able to refuse / talk to me for whatever reason – 
+If you want to hire me / make me an offer I won't be able to refuse / talk to me for whatever reason – 
 drop me a line. My contact info is at the bottom of the page.
