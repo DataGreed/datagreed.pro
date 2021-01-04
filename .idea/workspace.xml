@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0fb33e33-099d-465a-9d9f-d7c0b3ca9d4e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="RunManager" selected="Shell Script.deploy prod">
+    <configuration name="deploy prod" type="ShConfigurationType">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/deploy.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="local server" type="ShConfigurationType">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/localserver.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INTERPRETER_PATH" value="/bin/zsh" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Shell Script.local server" />
+      <item itemvalue="Shell Script.deploy prod" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="1673" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609723098380">
+      <screen x="379" y="1463" width="1792" height="1097" />
+    </state>
+    <state x="739" y="1673" key="#com.intellij.execution.impl.EditConfigurationsDialog/379.1463.1792.1097/0.23.2560.1417@379.1463.1792.1097" timestamp="1609723098380" />
+  </component>
+</project>
