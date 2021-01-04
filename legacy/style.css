@@ -1,0 +1,35 @@
+body{ 
+	background-color: #222;
+	font-family: "Operator Mono SSm A", "Operator Mono SSm B", 'Source Code Pro', Menlo, Consolas, Monaco, monospace;
+	color: #ddd;
+	font-size: 20px;	
+}
+
+a:any-link{
+	color: #080;
+	text-decoration: none;
+}
+
+div.content-container{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+div.content-block{
+	/*display: inline-table;*/
+	margin: 50px;
+	min-width: 300px;
+}
+
+h1 {
+	font-size: 26px;
+}
+
+.header{
+	margin-left: 50px;
+	margin-top: 30px;
+}
+
+.LI-profile-badge {
+	margin-top: -100px;
+}

@@ -1,0 +1,82 @@
+---
+layout: default
+---
+<div class="post">
+
+  <header class="post-header">
+    {% if page.show_header_logo %}
+    <div class="float-left mr-3"><img src="{{page.img}}" class="rounded mb-3 d-none d-md-block" style="max-height: 80px;" alt="{{page.title}} logo"/></div>
+    {% endif %}
+    <h1 class="post-title">{{ page.title }}</h1>
+    <p class="post-description">{{ page.description }}</p>
+  </header>
+
+  <article>
+
+    <style>
+    .full-width {
+      width: 100vw;
+      position: relative;
+      left: 49%;  /* setting this to 49 instead of 50 helps to removes horizontal scrolling */
+      right: 50%;
+      margin-left: -50vw;
+      margin-right: -50vw;
+    }
+    .mh600 {  /*prevents tall screenshots on mobile*/
+      max-height: 600px;
+    }
+
+    h2{
+      padding-top: 30px;
+    }
+    h3{
+      padding-top: 30px;
+    }
+    h4{
+      padding-top: 20px;
+      padding-bottom: 10px;
+    }
+    </style>
+
+    {% comment %} https://stackoverflow.com/questions/8206869/iterate-over-hashes-in-liquid-templates {% endcomment %}
+    <div class="border-bottom full-width mt-5"></div>
+    <div class="container pt-3 pb-3">
+      <div class="row">
+        {% if page.project_type %}
+        <div class="col pl-0">
+          <div class="text-muted text-uppercase text-nowrap"><small><small>project type</small></small></div>
+          <div><small class="font-weight-light text-nowrap">{{ page.project_type }}</small></div>
+        </div>
+        {% endif %}
+        {% if page.platforms %}
+        <div class="col pl-0">
+          <div class="text-muted text-uppercase text-nowrap"><small><small>platforms</small></small></div>
+          {% for platform in page.platforms %}
+            <div><small class="font-weight-light text-nowrap"><a href="{{platform.url}}" target="_blank">{{platform.name}}</a></small></div>
+          {% endfor %}
+        </div>
+        {% endif %}
+        {% if page.my_role %}
+        <div class="col pl-0">
+          <div class="text-muted text-uppercase text-nowrap"><small><small>my role</small></small></div>
+          {% for role in page.my_role %}
+            <div><small class="font-weight-light text-nowrap">{{role}}</small></div>
+          {% endfor %}
+        </div>
+        {% endif %}
+        {% if page.dates %}
+          <div class="col pl-0">
+            <div class="text-muted text-uppercase text-nowrap"><small><small>time period</small></small></div>
+            <div><small class="font-weight-light text-nowrap">{{page.dates}}</small></div>
+          </div>
+        {% endif %}
+
+
+      </div>
+    </div>
+    <div class="border-top full-width mb-5"></div>
+
+    {{ content }}
+  </article>
+
+</div>
