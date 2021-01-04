@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: projects
 permalink: /jects/
 description: My projects and projects I participated in.
 nav: true
