@@ -17,7 +17,7 @@ my_role:
 dates: Apr. 2019
 platforms: 
     - name: WebGL
-      url: http://datagreed.pro/projects/breathapart/BreathApartWebGL/index.html
+      url: https://datagreed.pro/projects/breathapart/BreathApartWebGL/index.html
     - name: Windows
       url: https://www.dropbox.com/s/x3gc2gmgj4bxjd0/BreathApartWin.zip?dl=1
     - name: macOS
@@ -133,7 +133,7 @@ todo: add gameplay video
 ***
 
 1. [Till Breath do us Part Ludum Dare Page](https://ldjam.com/events/ludum-dare/44/till-breath-do-us-part)
-2. [Till Breath do us Part for Web](http://datagreed.pro/projects/breathapart/BreathApartWebGL/index.html)
+2. [Till Breath do us Part for Web](https://datagreed.pro/projects/breathapart/BreathApartWebGL/index.html)
 3. [Till Breath do us Part for macOS](https://www.dropbox.com/s/tadlpahlp0x851d/BreathApartMac.zip?dl=1)
 4. [Till Breath do us Part for Windows](https://www.dropbox.com/s/x3gc2gmgj4bxjd0/BreathApartWin.zip?dl=1)
 5. [Till Breath do us Part Source Code](https://github.com/DataGreed/LD44)

@@ -157,6 +157,6 @@ The detailed post-mortem analysis of the project [can be found here](https://dat
 
 1. [Drunk Shotgun App Store Page](https://apps.apple.com/us/app/drunk-shotgun/id1482872349)
 2. [Drunk Shotgun Google Play Page](https://play.google.com/store/apps/details?id=pro.datagreed.DrunkShotgun)
-3. [Promo Page](http://datagreed.pro/projects/drunkshotgun/)    {% comment %}Check that this will still work!!! {% endcomment %}
+3. [Promo Page](https://datagreed.pro/projects/drunkshotgun/)    {% comment %}Check that this will still work!!! {% endcomment %}
 3. [Project Post-Mortem Analysis](https://datagreed.medium.com/how-i-wasted-4k-and-half-a-year-of-my-life-to-develop-a-game-that-earned-only-30-a94e0d59e554)
 

@@ -15,7 +15,7 @@ my_role:
 dates: Apr. 2020
 platforms: 
     - name: WebGL
-      url: http://datagreed.pro/projects/anothernight/index.html
+      url: https://datagreed.pro/projects/anothernight/index.html
     - name: Windows
       url: https://datagreed.itch.io/another-night
     - name: macOS
@@ -118,7 +118,7 @@ todo: add gameplay video
 ***
 
 1. [Another Night Ludum Dare Page](https://ldjam.com/events/ludum-dare/46/another-night)
-2. [Another Night for Web](http://datagreed.pro/projects/anothernight/index.html) (note: standalone Windows and macOS versions run much smoother)
+2. [Another Night for Web](https://datagreed.pro/projects/anothernight/index.html) (note: standalone Windows and macOS versions run much smoother)
 3. [Another Night for macOS](https://datagreed.itch.io/another-night)
 4. [Another Night for Windows](https://datagreed.itch.io/another-night)
 5. [Another Night Source Code](https://github.com/DataGreed/LD46)
