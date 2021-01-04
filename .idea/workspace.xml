@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fb33e33-099d-465a-9d9f-d7c0b3ca9d4e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/opengraph_default.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/projects.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/projects.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/drunkshotgun.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/drunkshotgun.markdown" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +19,15 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="RunManager" selected="Shell Script.deploy prod">
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Shell Script.local server">
     <configuration name="deploy prod" type="ShConfigurationType">
       <option name="SCRIPT_PATH" value="$PROJECT_DIR$/deploy.sh" />
       <option name="SCRIPT_OPTIONS" value="" />
@@ -59,13 +72,13 @@
       <screen x="379" y="1463" width="1792" height="1097" />
     </state>
     <state x="739" y="1673" key="#com.intellij.execution.impl.EditConfigurationsDialog/379.1463.1792.1097/0.23.2560.1417@379.1463.1792.1097" timestamp="1609723098380" />
-    <state x="933" y="1773" width="683" height="476" key="find.popup" timestamp="1609723346271">
+    <state x="933" y="1773" width="683" height="476" key="find.popup" timestamp="1609724457994">
       <screen x="379" y="1463" width="1792" height="1097" />
     </state>
-    <state x="933" y="1773" width="683" height="476" key="find.popup/379.1463.1792.1097/0.23.2560.1417@379.1463.1792.1097" timestamp="1609723346271" />
-    <state x="940" y="1708" width="670" height="676" key="search.everywhere.popup" timestamp="1609723427149">
+    <state x="933" y="1773" width="683" height="476" key="find.popup/379.1463.1792.1097/0.23.2560.1417@379.1463.1792.1097" timestamp="1609724457994" />
+    <state x="940" y="1708" width="670" height="676" key="search.everywhere.popup" timestamp="1609724398078">
       <screen x="379" y="1463" width="1792" height="1097" />
     </state>
-    <state x="940" y="1708" width="670" height="676" key="search.everywhere.popup/379.1463.1792.1097/0.23.2560.1417@379.1463.1792.1097" timestamp="1609723427149" />
+    <state x="940" y="1708" width="670" height="676" key="search.everywhere.popup/379.1463.1792.1097/0.23.2560.1417@379.1463.1792.1097" timestamp="1609724398078" />
   </component>
 </project>

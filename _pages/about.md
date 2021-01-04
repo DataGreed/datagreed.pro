@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Personal website of Alexey Strelkov, a man with a passion for building tech stuff and developing games.
 
 profile:
   align: right
