@@ -40,17 +40,20 @@ todo: add some promo-art here or some screenshots to break the page up or
 todo: add some gameplay videos with both weapons. Crossbow is badically the ultimate difficulty
 {% endcomment %}
 
-## My Role
+## Background
 ***
 
 I had an idea for this game in October, 2019 after I discovered Archero. I really liked the simplistic control scheme,
 but didn't like the fact that you only had control over the movements of the character, leaving aiming out of question,
 so I thought of the ways to let player both shoot/aim and move with just one hand. 
 
-The idea of a drunk guy emerged quite quickly and I created a prototype in three days in Unity using free assets.
+The concept of protagonist being drunk emerged quite quickly and I created a prototype in three days 
+in Unity using free assets.
 
 Several days later I created an art specification and started looking for an artist.
 
+## My Role
+***
 Art was the only thing that I outsourced for this game, the sounds and music were licensed (some of the sounds I 
 recorded myself). 
 
