@@ -62,7 +62,8 @@ The game design, art direction, UI design, programming, animations and publishin
 
 ## Project Post-Mortem
 ***
-The detailed post-mortem analysis of the project [can be found here](https://datagreed.medium.com/how-i-wasted-4k-and-half-a-year-of-my-life-to-develop-a-game-that-earned-only-30-a94e0d59e554).
+The detailed post-mortem analysis of the project [can be found on Gamasutra](https://gamasutra.com/blogs/AlexeyStrelkov/20210104/375680/How_I_wasted_4k_and_half_a_year_of_my_life_to_develop_a_game_that_earned_only_30.php) 
+or [in my medium blog](https://datagreed.medium.com/how-i-wasted-4k-and-half-a-year-of-my-life-to-develop-a-game-that-earned-only-30-a94e0d59e554).
 
 ## Media
 ***
@@ -159,5 +160,6 @@ The detailed post-mortem analysis of the project [can be found here](https://dat
 1. [Drunk Shotgun App Store Page](https://apps.apple.com/us/app/drunk-shotgun/id1482872349)
 2. [Drunk Shotgun Google Play Page](https://play.google.com/store/apps/details?id=pro.datagreed.DrunkShotgun)
 3. [Promo Page](https://datagreed.pro/projects/drunkshotgun/)    {% comment %}Check that this will still work!!! {% endcomment %}
-3. [Project Post-Mortem Analysis](https://datagreed.medium.com/how-i-wasted-4k-and-half-a-year-of-my-life-to-develop-a-game-that-earned-only-30-a94e0d59e554)
+4. [Project Post-Mortem Analysis, featured on Gamasutra](https://gamasutra.com/blogs/AlexeyStrelkov/20210104/375680/How_I_wasted_4k_and_half_a_year_of_my_life_to_develop_a_game_that_earned_only_30.php)
+3. [Project Post-Mortem Analysis, mirror](https://datagreed.medium.com/how-i-wasted-4k-and-half-a-year-of-my-life-to-develop-a-game-that-earned-only-30-a94e0d59e554)
 
