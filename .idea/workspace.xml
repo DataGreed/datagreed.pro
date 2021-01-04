@@ -27,7 +27,7 @@
       <recent name="$PROJECT_DIR$/assets/img" />
     </key>
   </component>
-  <component name="RunManager" selected="Shell Script.local server">
+  <component name="RunManager" selected="Shell Script.deploy prod">
     <configuration name="deploy prod" type="ShConfigurationType">
       <option name="SCRIPT_PATH" value="$PROJECT_DIR$/deploy.sh" />
       <option name="SCRIPT_OPTIONS" value="" />
