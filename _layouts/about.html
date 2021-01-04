@@ -45,7 +45,7 @@ layout: default
     </div>
 
     {% for pp in site.pages %}
-      {% if pp.title =="projects"%}
+      {% if pp.title =="Projects"%}
         {% comment %} seems like an easiest way to get projects url without hardcoding {% endcomment %}
         <div class="text-center mt-3 mb-5"><a href="{{pp.url}}">See more projects</a></div>
       {%endif%}

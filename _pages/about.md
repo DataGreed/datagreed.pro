@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 Yes, that's my name. You can also know me as DataGreed. This nickname seems to be odd in the age of
 megacorporatins trying to collect your data, but it's actually just a bad programming pun.
 
-Over a decade I've spent a lot of time designing, developing mobile and web apps, APIs and other services, managing 
+Over a decade I've spent a lot of time designing & developing mobile and web apps, APIs and other services; managing 
 development teams and consulting startups.   
 
 I've also designed and developed several games. 
