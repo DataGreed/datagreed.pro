@@ -55,5 +55,5 @@ todo: links to magazines about this project
 ## Links
 ***
 
-1. [Soul Website](https://itunes.apple.com/ru/app/id690661663)
+1. [Soul Website](https://soulplatform.com)
 2. [Article about Soul Platform Hackathon on vc.ru](https://vc.ru/promo/14652-pure-soul)
