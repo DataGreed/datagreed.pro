@@ -3,7 +3,7 @@ layout: project
 title: Soul
 description: mBaaS for the Dating Apps
 img: /assets/img/projects/soul/cover.png
-importance: 1
+importance: 4
 featured: false
 show_header_logo: true
 section: services   # for project list page

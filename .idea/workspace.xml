@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fb33e33-099d-465a-9d9f-d7c0b3ca9d4e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/projects/onlythreads/cover.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/drunkshotgun.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/drunkshotgun.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/listenable.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/listenable.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_projects/pure.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/pure.markdown" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_projects/soul.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_projects/soul.markdown" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,14 +27,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img/projects/onlythreads" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/projects/onlythreads" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/img/projects/onlythreads" />
+      <recent name="$PROJECT_DIR$/_projects" />
       <recent name="$PROJECT_DIR$/assets/img" />
     </key>
   </component>
-  <component name="RunManager" selected="Shell Script.deploy prod">
+  <component name="RunManager" selected="Shell Script.local server">
     <configuration name="deploy prod" type="ShConfigurationType">
       <option name="SCRIPT_PATH" value="$PROJECT_DIR$/deploy.sh" />
       <option name="SCRIPT_OPTIONS" value="" />
@@ -48,8 +57,8 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Shell Script.local server" />
       <item itemvalue="Shell Script.deploy prod" />
+      <item itemvalue="Shell Script.local server" />
     </list>
   </component>
   <component name="ServiceViewManager">
@@ -74,7 +83,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611017066049</updated>
-      <workItem from="1611017069315" duration="16000" />
+      <workItem from="1611017069315" duration="663000" />
+      <workItem from="1629115318768" duration="780000" />
+      <workItem from="1634567404899" duration="2574000" />
     </task>
     <servers />
   </component>
@@ -82,18 +93,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="739" y="1673" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609723098380">
-      <screen x="379" y="1463" width="1792" height="1097" />
+    <state x="744" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1629115344793">
+      <screen x="0" y="25" width="2560" height="1415" />
     </state>
-    <state x="739" y="1673" key="#com.intellij.execution.impl.EditConfigurationsDialog/379.1463.1792.1097/0.23.2560.1417@379.1463.1792.1097" timestamp="1609723098380" />
-    <state x="933" y="1773" width="683" height="476" key="find.popup" timestamp="1609724457994">
-      <screen x="379" y="1463" width="1792" height="1097" />
-    </state>
-    <state x="933" y="1773" width="683" height="476" key="find.popup/379.1463.1792.1097/0.23.2560.1417@379.1463.1792.1097" timestamp="1609724457994" />
-    <state x="561" y="268" width="670" height="676" key="search.everywhere.popup" timestamp="1611017115856">
-      <screen x="0" y="23" width="1792" height="1097" />
-    </state>
-    <state x="561" y="268" width="670" height="676" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1611017115856" />
-    <state x="940" y="1708" width="670" height="676" key="search.everywhere.popup/379.1463.1792.1097/0.23.2560.1417@379.1463.1792.1097" timestamp="1609724398078" />
+    <state x="744" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog/2560.345.1792.1095/0.25.2560.1415@0.25.2560.1415" timestamp="1629115344793" />
   </component>
 </project>

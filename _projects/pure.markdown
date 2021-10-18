@@ -3,7 +3,7 @@ layout: project
 title: Pure
 description: The Anonymous Dating App
 img: /assets/img/projects/pure/cover.png
-importance: 1
+importance: 3
 featured: true
 show_header_logo: true
 section: services   # for project list page

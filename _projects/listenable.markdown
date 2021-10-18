@@ -3,7 +3,7 @@ layout: project
 title: Listenable
 description: Bite-sized audio courses created by renowned experts
 img: /assets/img/projects/listenable/cover.png
-importance: 1
+importance: 2
 featured: true
 show_header_logo: true
 section: services   # for project list page

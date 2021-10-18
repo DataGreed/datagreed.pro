@@ -5,7 +5,7 @@ description: A shooter game where you're so drunk you can't stop spinning
 img: /assets/img/projects/drunkshotgun/cover.png
 og_image: /assets/img/projects/drunkshotgun/boxart.png
 importance: 2
-featured: true
+featured: false
 show_header_logo: true
 section: games   # for project list page
 project_type: Indie Mobile Game
