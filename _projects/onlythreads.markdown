@@ -27,7 +27,7 @@ lessons anytime, anywhere.
 ***
 
 We've come up with an idea for OnlyThreads while working on Listenable and realizing that Slack is great for instant
-communication but quickly becomes a mess if you won't to use it for logging decisions and store knowledge that can
+communication but quickly becomes a mess if you want to use it for logging decisions and store knowledge that can
 be accessed later.
 
 I was responsible for everything related to the technical side of the project and product design: 
