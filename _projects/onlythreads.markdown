@@ -19,14 +19,14 @@ platforms:
       url: https://onlythreads.co/
 ---
 
-Listenable is an audio-based learning platform that helps you learn new things while doing something else — commuting, 
-running, doing housework, etc. With Listenable, you can build your learning playlist and listen to 5-minute audio 
-lessons anytime, anywhere.
+OnlyThreads is a productivity extension for Slack that lets you transform some of your channels to knowledge base  
+and never lose important decisions and answers. It also searches for answers automatically whenever someone asks 
+about something that has already been answered or decided upon. 
 
 ## My Role
 ***
 
-We've come up with an idea for OnlyThreads while working on Listenable and realizing that Slack is great for instant
+We've come up with an idea for OnlyThreads while working on nable and realizing that Slack is great for instant
 communication but quickly becomes a mess if you want to use it for logging decisions and store knowledge that can
 be accessed later.
 
