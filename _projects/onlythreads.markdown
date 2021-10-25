@@ -19,9 +19,7 @@ platforms:
       url: https://onlythreads.co/
 ---
 
-OnlyThreads is a productivity extension for Slack that lets you transform some of your channels to knowledge base  
-and never lose important decisions and answers. It also searches for answers automatically whenever someone asks 
-about something that has already been answered or decided upon. 
+OnlyThreads is a productivity extension for Slack that lets you transform some of your channels to knowledge base and never lose important decisions and answers. It also searches for answers automatically whenever someone asks about something that has already been answered or decided upon. 
 
 ## My Role
 ***
