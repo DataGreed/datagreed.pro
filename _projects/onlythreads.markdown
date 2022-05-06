@@ -24,7 +24,7 @@ OnlyThreads is a productivity extension for Slack that lets you transform some o
 ## My Role
 ***
 
-We've come up with an idea for OnlyThreads while working on nable and realizing that Slack is great for instant
+We've come up with an idea for OnlyThreads while working on Listenable. We realized that Slack is great for instant
 communication but quickly becomes a mess if you want to use it for logging decisions and store knowledge that can
 be accessed later.
 
