@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Alexey  Strelkov | blank</title>
+<title>Alexey  Strelkov | Poly Tracker MIDI Export</title>
 <meta name="description" content="Personal website of Alexey Strelkov, a man with a passion for building tech stuff and developing games.
 ">
 
@@ -14,9 +14,9 @@
 
 <meta property="og:site_name" content="Alexey Strelkov" />
 <meta property="og:type" content="object" />
-<meta property="og:title" content="blank" />
-<meta property="og:url" content="https://datagreed.pro/blog/index.html" />
-<meta property="og:description" content="" />
+<meta property="og:title" content="Poly Tracker MIDI Export" />
+<meta property="og:url" content="https://datagreed.pro/jects/polyendtrackermidiexport/" />
+<meta property="og:description" content="MIDI Exporter for Polyend Tracker projects & patterns" />
 <meta property="og:image" content="https://datagreed.pro/assets/img/opengraph_default.png" />
 
 
@@ -36,7 +36,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/jects/polyendtrackermidiexport/">
 
     
 <!-- MathJax -->
@@ -101,7 +101,7 @@
 
           
           <!-- Blog -->
-          <li class="nav-item active">
+          <li class="nav-item ">
             <a class="nav-link" href="https://datagreed.medium.com" target="_blank">
             
               blog
@@ -132,54 +132,136 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1>datagreed</h1>
-    <h2>programming, gamedev and ux notes</h2>
-  </div>
+  <header class="post-header">
+    
+    <div class="float-left mr-3"><img src="/assets/img/projects/polyendtrackermidiexport/cover.png" class="rounded mb-3 d-none d-md-block" style="max-height: 80px;" alt="Poly Tracker MIDI Export logo"/></div>
+    
+    <h1 class="post-title">Poly Tracker MIDI Export</h1>
+    <p class="post-description">MIDI Exporter for Polyend Tracker projects & patterns</p>
+  </header>
+
+  <article>
+
+    <style>
+    .full-width {
+      width: 100vw;
+      position: relative;
+      left: 49%;  /* setting this to 49 instead of 50 helps to removes horizontal scrolling */
+      right: 50%;
+      margin-left: -50vw;
+      margin-right: -50vw;
+    }
+    .mh600 {  /*prevents tall screenshots on mobile*/
+      max-height: 600px;
+    }
+
+    h2{
+      padding-top: 30px;
+    }
+    h3{
+      padding-top: 30px;
+    }
+    h4{
+      padding-top: 20px;
+      padding-bottom: 10px;
+    }
+    </style>
+
+    
+    <div class="border-bottom full-width mt-5"></div>
+    <div class="container pt-3 pb-3">
+      <div class="row">
+        
+        <div class="col pl-0">
+          <div class="text-muted text-uppercase text-nowrap"><small><small>project type</small></small></div>
+          <div><small class="font-weight-light text-nowrap">Productivity Tool</small></div>
+        </div>
+        
+        
+        <div class="col pl-0">
+          <div class="text-muted text-uppercase text-nowrap"><small><small>platforms</small></small></div>
+          
+            <div><small class="font-weight-light text-nowrap"><a href="https://polyend-tracker-midi-export.onrender.com" target="_blank">Web</a></small></div>
+          
+            <div><small class="font-weight-light text-nowrap"><a href="https://github.com/DataGreed/polyendtracker-midi-export" target="_blank">GitHub</a></small></div>
+          
+        </div>
+        
+        
+        <div class="col pl-0">
+          <div class="text-muted text-uppercase text-nowrap"><small><small>my role</small></small></div>
+          
+            <div><small class="font-weight-light text-nowrap">reverse-engineering</small></div>
+          
+            <div><small class="font-weight-light text-nowrap">developer</small></div>
+          
+        </div>
+        
+        
+          <div class="col pl-0">
+            <div class="text-muted text-uppercase text-nowrap"><small><small>time period</small></small></div>
+            <div><small class="font-weight-light text-nowrap">Apr 2022</small></div>
+          </div>
+        
 
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2018/distill/">a distill-style blog post</a></h3>
-        <p class="post-meta">December 22, 2018</p>
-        <p>an example of a distill-style blog post and main elements</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2015/comments/">a post with comments</a></h3>
-        <p class="post-meta">October 20, 2015</p>
-        <p>an example of a blog post with comments</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2015/math/">a post with math</a></h3>
-        <p class="post-meta">October 20, 2015</p>
-        <p>an example of a blog post with some math</p>
-      </li>
-    
-  </ul>
+      </div>
+    </div>
+    <div class="border-top full-width mb-5"></div>
 
-  
-<nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li>
+    <p>This tool lets you convert <a href="https://polyend.com/tracker/">Polyend Tracker</a> projects and pattern files to MIDI, so you can compose music
+on the Tracker and then easily port it over to your favourite DAW to continue working on it.</p>
+
+<h2 id="background">Background</h2>
+<hr />
+<p>While working on my <a href="https://synapsoid.net/">musical</a> <a href="https://obgonsverhu.ru">projects</a> I found myself using 
+<a href="https://polyend.com/tracker/">Polyend Tracker</a> as a 
+sequencer for external synthesizers a lot. Most of the time I’ve recorded the audio to 101 Music’s BlueBox to bring it 
+later into Ableton for final arrangement and mixing. At this stage I found 
+<a href="https://help.polyend.com/624837-Is-the-Polyend-Tracker-able-to-importexport-MIDI-files">lack of MIDI export</a> in 
+Polyend Tracker very limiting and decided to reverse engineer the Tracker’s pattern and project files to convert them to MIDI.</p>
+
+<p>As a result I’ve created a Python Library that converts project and pattern file and a simple webtool that lets
+you drop in a zipped Tracker project and get your arrangement and patterns in MIDI format.</p>
+
+<p>Most of my thought process when reverse engineering is 
+<a href="https://github.com/DataGreed/polyendtracker-midi-export/blob/main/reverse-engineering/session%201/session1-notes.md">documented</a> 
+in the GitHub repository.</p>
+
+<h2 id="media">Media</h2>
+<hr />
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <img class="img-fluid rounded z-depth-1 mh600" src="/assets/img/projects/polyendtrackermidiexport/frames.png" alt="" />
+    </div>     
     
-      
-        <li class="page-item active"><a class="page-link" href="/blog/index.html" title="blank">1</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/2/index.html" title="blank - page 2">2</a></li>
-      
-    
-    <li class="page-item ">
-      <a class="page-link" href="/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
+
+</div>
+<div class="caption">
+    Reversed-engineered frames of the patterns files
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0 text-center">
+        <img class="img-fluid rounded z-depth-1 mh600" src="/assets/img/projects/polyendtrackermidiexport/screenshot1.png" alt="" />
+    </div>     
 
 
+</div>
+<div class="caption">
+    Screenshot of the webtool – just drop in your zipped project to convert
+</div>
+
+<h2 id="links">Links</h2>
+<hr />
+
+<ol>
+  <li><a href="https://polyend-tracker-midi-export.onrender.com">Polyend Tracker MIDI Exporter Web Tool</a></li>
+  <li><a href="https://github.com/DataGreed/polyendtracker-midi-export">Polyend Tracker MIDI exporter Python Library Repo</a></li>
+</ol>
+
+
+  </article>
 
 </div>
 
