@@ -3,7 +3,7 @@ layout: project
 title: Grouping Tool
 description: Productivity tool for Unity
 img: /assets/img/projects/unitygroupingtool/cover.jpg
-importance: 1
+importance: 2
 featured: false
 show_header_logo: true
 section: tools   # for project list page
